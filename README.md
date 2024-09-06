@@ -1,4 +1,4 @@
-# eCommerce Project (Python & SQL)
+# eCommerce Sales Dataset (Python & SQL)
 
 This project is an eCommerce system simulation built using Python and SQL. It involves creating, managing, and querying an eCommerce database to handle typical tasks such as user management, product inventory, orders, and more. Additionally, various questions and problems related to the project have been solved and documented in the project files.
 
